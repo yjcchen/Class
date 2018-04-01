@@ -86,7 +86,7 @@ print(sort_root)
 
 
 print(y_train)
-print(class_names)
+#print(class_names)
 
 
 
